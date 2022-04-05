@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JiuShilianmeng.Github.io</id>
-    <title>Gridea</title>
-    <updated>2022-04-05T13:39:34.849Z</updated>
+    <title>救世联盟会</title>
+    <updated>2022-04-05T13:50:35.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://JiuShilianmeng.Github.io"/>
     <link rel="self" href="https://JiuShilianmeng.Github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>心怀善良，兼爱众生。</subtitle>
     <logo>https://JiuShilianmeng.Github.io/images/avatar.png</logo>
     <icon>https://JiuShilianmeng.Github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, 救世联盟会</rights>
+    <entry>
+        <title type="html"><![CDATA[2022/4/5/21.45]]></title>
+        <id>https://JiuShilianmeng.Github.io/post/2022452145/</id>
+        <link href="https://JiuShilianmeng.Github.io/post/2022452145/">
+        </link>
+        <updated>2022-04-05T13:45:01.000Z</updated>
+        <content type="html"><![CDATA[<p>联盟成立</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://JiuShilianmeng.Github.io/post/hello-gridea/</id>
