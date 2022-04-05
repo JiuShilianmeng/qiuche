@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://JiuShilianmeng.Github.io</id>
+    <id>https://jiushilianmeng.github.io</id>
     <title>救世联盟会</title>
-    <updated>2022-04-05T13:52:10.574Z</updated>
+    <updated>2022-04-05T13:58:03.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://JiuShilianmeng.Github.io"/>
-    <link rel="self" href="https://JiuShilianmeng.Github.io/atom.xml"/>
+    <link rel="alternate" href="https://jiushilianmeng.github.io"/>
+    <link rel="self" href="https://jiushilianmeng.github.io/atom.xml"/>
     <subtitle>心怀善良，兼爱众生。</subtitle>
-    <logo>https://JiuShilianmeng.Github.io/images/avatar.png</logo>
-    <icon>https://JiuShilianmeng.Github.io/favicon.ico</icon>
+    <logo>https://jiushilianmeng.github.io/images/avatar.png</logo>
+    <icon>https://jiushilianmeng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 救世联盟会</rights>
     <entry>
         <title type="html"><![CDATA[2022/4/5/21.45]]></title>
-        <id>https://JiuShilianmeng.Github.io/post/2022452145/</id>
-        <link href="https://JiuShilianmeng.Github.io/post/2022452145/">
+        <id>https://jiushilianmeng.github.io/post/2022452145/</id>
+        <link href="https://jiushilianmeng.github.io/post/2022452145/">
         </link>
         <updated>2022-04-05T13:45:01.000Z</updated>
         <content type="html"><![CDATA[<p>联盟成立</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://JiuShilianmeng.Github.io/post/hello-gridea/</id>
-        <link href="https://JiuShilianmeng.Github.io/post/hello-gridea/">
+        <id>https://jiushilianmeng.github.io/post/hello-gridea/</id>
+        <link href="https://jiushilianmeng.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
